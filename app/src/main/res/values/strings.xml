@@ -1,0 +1,113 @@
+<resources>
+    <string name="app_name">WOMEN LIFESTYLE BOOK</string>
+
+    <string name="heading1">Safety Tips</string>
+    <string name="tips">1. It is safer for single women in India to live or travel with at least 1 or 2 other people.\n\n 2. Never accept food and drinks from complete strangers.\n
+\n3. Your eye contact with strange men should be brief and never intimate \n \n 4. Never get into a cab or auto that has more than one man sitting in there.
+        \n\n 5. Be alert to your environment and the people around you at all times. \n\n 6. Listen to your gut instinct and don’t second guess it. (It is better to be wrong and safe than wrong and sorry!)
+        \n\n 6. Act on your observations and instincts intelligently.
+        \n\n 7. Donot forget to use Women Lifestyle Book when in danger.
+    </string>
+    <string name="tips1">
+
+        1- Women must have all the emergency numbers with them and WhatsApp also if possible so that they can immediately tell their family members and police.
+\n \n 2- Hold your bag as tightly as you can when you are in a public transport. You can use it to hit your predator.
+\n \n 3- When you are walking on a road,keep your mobile phone handy but avoid using it . Being on the phone makes you less alert.
+\n \n 4- When you are travelling in an auto alone , make sure that you share the auto number
+        with someone in your family even if its  during the day.
+\n \n 5- Similarly if you have booked a cab always share your coordinates with someone.
+\n \n 6- When in office , avoid going to the isolates areas with no CCTV cameras.
+\n \n 7- If you have parked your car , always look underneath ,especially at night or at less crowded areas.
+\n \n 8- Whenever you are posting anything on social media , make sure that you  donot do it in real- time.
+        Because if you do , you are telling people on social media about
+        your whereabouts. Delay those posts by say , 20-30 mins.
+\n \n 9- Always ensure that you arenot posting anything on social media with your address
+        or phone number on it.
+\n \n 10- Whenever you are giving out orders for delivery at a grocery store ,
+        make sure that you whisper your address or write it down somewhere and give it to the shopkeeper. Never announce it .
+\n \n 11- Whenever you are getting your phone recharged , if its  at a store , donot
+        loudly speak your phone number.
+\n \n 12- Always pour your own drinks at parties and donot take drinks from complete strangers
+        or even friends. If you have left your drink unatttended for even a few minutes then
+        leave it and take a new drink . It may have been spiked when you arenot looking.
+
+
+    </string>
+<string name="heading2">Tips to Escape from Threat</string>
+    <string name="tips2">
+
+
+
+          1. What should a woman do if she finds herself alone in the company of a strange male as
+        she prepares to enter a lift in a High Rise apartment late at night.????? \n
+        \n
+        Experts Say : Enter the lift. If you need to reach the 13th floor, press all the
+        buttons up to your destination. No one will dare attack you in a lift that stops on every
+        floor. \n
+        \n
+        2. What to do if a stranger tries to attack you when you are alone in your house,
+        run into the kitchen. \n
+        \n
+        Experts Say: You alone know where the chilli powder and turmeric are kept. And where the knives and plates are.\n
+        All these can be turned into deadly weapons. If nothing else, start throwing plates and utensils all over. \n
+        Let them break. Scream. Remember that noise is the greatest enemy of a molester. \n
+        He does not want to be caught.\n \n
+        3. Taking an Auto or Taxi at Night. \n
+        \n
+        Experts Say: Before getting into an auto at night, note down its registration number. \n
+        Then use the mobile to call your family or friend and pass on the details to them in the language the driver understands. \n
+        Even if no one answers your call, pretend you are in a conversation.\n
+        The driver now knows someone has his details and he will be in serious trouble if anything goes wrong. \n
+        He is now bound to take you home safe and sound.\n
+        A potential attacker is now your de facto protector.\n
+        \n
+        4. What if the driver turns into a street he is not supposed too and you feel you are entering a danger zone ...\n
+        \n
+
+Experts Say : Use the handle of your purse or your stole (dupatta) to wrap around his neck and pull him back.
+        \n
+        Within seconds, he will feel choked and helpless. In case you donot have a purse or stole
+        just pull him back by his collar. \n
+        The top button of his shirt would then do the same trick. \n
+        \n
+        5. If you are stalked at night.\n
+        \n
+        Expert Say : Enter a shop or a house and explain your predicament. If it is night and shops are not open, go inside an ATM box. \n
+        ATM centres always have close circuit television. Fearing identification, no one will dare attack you. \n
+        After all, being mentally alert is the greatest weapon you can ever have.
+        </string>
+
+    <string name="heading3">Laws Related To Women</string>
+    <string name="tips3">
+
+        The Indian Penal Code , 1960, lays down the provision to penalise the culprit for the heinous
+        offences against women. Various sections under IPC specifically deals with such crimes.
+\n \n Acid Attack ( Sections 326A and 326B)
+\n \n Rape ( Sections 375 , 376 , 376A , 376B , 376C , 376D and 376E.
+\n \n Kidnapping and abduction for various purposes ( Sections 363-373 )
+\n \n Murder , Dowry Death , Abedment of Suicide,etc. (Sections 302 , 304B and 306 )
+\n \n Cruelty by her husband or her relatives ( Section 498A )
+\n \n Outraging the modesty of women (Section 354 )
+\n \n Sexual harassment ( Section 354A )
+\n \n Assault on women with intend to disrobe a women (Section 354B )
+\n \n Voyeurism ( Section 354C )
+\n \n Stalking ( Section 354D )
+\n \n Word , gesture or act intended to insult the modesty of a women ( Section 509 )
+    </string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_add_numbers">Add Numbers</string>
+    <string name="addNumber">Add Contact Numbers</string>
+    <string name="message">Tap to message</string>
+    <string name="phone1">Phone Number 1</string>
+    <string name="phone2">Phone Number 2</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="title_activity_women_security_app">WOMEN LIFESTYLE BOOK</string>
+    <string name="title_activity_tips">Tips</string>
+    <string name="title_activity_main_activityy">MainActivityy</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Text Message</string>
+    <string name="title_notifications">Contacts</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
